@@ -1,0 +1,29 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Test Title",
+            "post": "This can be a sample post",
+            "image": "image soon",
+            "author": "Nick K",
+            "date": "12/13/2020"
+        },
+        {
+            "id": 2,
+            "title": "Test two",
+            "post": "This can be a second sample post",
+            "image": "image soon",
+            "author": "Nick K",
+            "date": "12/14/2020"
+        },
+        {
+            "id": 3,
+            "title": "Test Title",
+            "post": "This can be a third sample post",
+            "image": "image soon",
+            "author": "Nick K",
+            "date": "12/22/2020"
+        }
+
+    ]
+}
